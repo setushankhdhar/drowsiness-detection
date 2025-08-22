@@ -1,0 +1,13 @@
+opencv-python
+numpy
+keras
+tensorflow
+pygame
+matplotlib        
+pillow          
+imutils          
+tensorflow
+opencv-python
+numpy
+pygame
+
